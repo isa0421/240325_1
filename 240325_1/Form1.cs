@@ -14,7 +14,7 @@ namespace _240325_1
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); //1234
         }
     }
 }
